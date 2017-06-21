@@ -1,6 +1,7 @@
 html {
   background-color: black;
   font-family: verdana;
+  text-align: center;
 }
 
 h1 {
@@ -10,8 +11,7 @@ h1 {
   text-align: center;
 }
 
-a.dl_link {
-  text-align: center;
+.dllink {
   color: aquamarine;
   font-size: 16px;
 }
